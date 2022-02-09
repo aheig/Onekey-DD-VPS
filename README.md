@@ -7,3 +7,8 @@
 ```
 wget --no-check-certificate -O AutoReinstall.sh https://git.io/AutoReinstall.sh && bash AutoReinstall.sh
 ```
+
+密码：``Pwd@Centos``
+或者
+密码：``Pwd@Linux``
+
